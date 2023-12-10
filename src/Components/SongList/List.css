@@ -1,0 +1,53 @@
+/* .contanier{
+    border: 2px solid ;
+
+} */
+/* 
+.box-1{
+    border: 1px solid ;
+} */
+.logo{
+    color: #552583;
+}
+
+.icon{
+    cursor: pointer;
+}
+
+.songs-nav{
+     background-color: rgb(134, 151, 145);
+}
+
+.below{
+    margin-top: 2rem;
+}
+
+.thumbnail{
+    width: 70px;
+    height: 70px;
+    
+}
+
+.songs-nav span{
+    color: rgb(7, 226, 226);
+    font-weight: bolder;
+}
+
+.add-right{
+    display: flex;
+    gap: 4px;
+}
+
+.add-song{
+    background-color: #FDB927;
+    border: none;
+    /* border-radius: 5px; */
+}
+
+.navbar{
+    height: 10%;
+}
+
+/* .size{
+    border: 1px solid ;
+} */
